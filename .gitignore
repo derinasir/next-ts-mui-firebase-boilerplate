@@ -25,7 +25,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env.local
+
+# .env.local
+#! Do NOT forget to remove .env.local from .gitignore
+
 .env.development.local
 .env.test.local
 .env.production.local
@@ -35,3 +38,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# development
+/.vscode
+/.idea
