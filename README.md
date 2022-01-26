@@ -20,6 +20,7 @@ This boilerplate uses:
 - Next @12.0.8
 - TypeScript @4.5.5
 - Firebase @9.6.4
+- MUI @5.3.1
 
 ---
 
